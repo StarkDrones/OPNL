@@ -1,4 +1,2 @@
 # Open Innovation License
-The Open Innovation Open Source License proposal
-
-#### A license we describe as being meant to promote the idea of technology used to make the world a better place.
+The Open Innovation Open Source License promotes the idea of technology being used in order to make the world a better place. Not only this, but also many problems people have in regards to many different open source hardware and software offerings are tackled by lots of the terminology of this license. This license is also partially inspired by many companies wanting to release technology into the world commercially that can still be used by others.
