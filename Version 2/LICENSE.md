@@ -1,9 +1,7 @@
-<p align=center>
 # The Open Innovation License
 *Version 1, 10th November 2020*\
 *Copyright © 2020 Stark Drones Corporation*\
 *Copyright © 2020 Andrew Magdy Kamal*
-</p>
 
 ## Preamble
 
