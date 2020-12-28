@@ -1,5 +1,5 @@
 # The Open Innovation License
-*Version 1, 10th November 2020*\
+*Version 2, 28th December 2020*\
 *Copyright © 2020 Stark Drones Corporation*\
 *Copyright © 2020 Andrew Magdy Kamal*
 
@@ -15,4 +15,4 @@ This project is licensed under the *Open Innovation License*. This means any cod
 
 ##### Any code, file, diagrams, data format, or other innovation containing this license is understood to be fully "AS IS", no claims are made in regards to safety, security, warranty, usability, or other form of merchantability and market-readiness. In no events are copyright holders, authors, or publishers are to be held liable for any claims, damage or results from usage of what have been licensed under this license.
 
-The context of this license includes: Keeping this original license text and file verbatim, as well as the copyright notice included in any redistribution of said project. Project is defined as what is using this license. For purposes of context, the copyright notice above version and year is meant to be modified for whomsoever publishes or releases "any code, file, diagrams, data format, or other innovation", so that they can include their information.
+The context of this license includes: Keeping this original license text and file verbatim, as well as the copyright notice included in any redistribution of said project. Project is defined as what is using this license. For purposes of context, the copyright notice after the preamble is meant to be modified for whomsoever publishes or releases "any code, file, diagrams, data format, or other innovation", so that they can include their information.
