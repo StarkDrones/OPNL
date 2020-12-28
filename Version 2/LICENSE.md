@@ -5,7 +5,7 @@
 
 ## Preamble
 
-The *Stark Drones Corporation* believes at goodwill, to build or release technology for the betterment of humanity. Technology should not be meant with the intention of harming a human being. We believe in a prima facie moral duty through consequential deontology to understand that technology should be within the concept of moral good or outcomes that are morally right and/or ethical. We agree at goodwill to promote the advancement of humanity and civilization as a whole. We agree to a sense of adventurement, edification, and the expansion of the human mind. 
+The *Stark Drones Corporation* believes in building or releasing technology for the betterment of humanity. Technology should not be meant with the intention of harming a human being. We believe in a prima facie moral duty through personal moral obligation to understand that technology should be within the concept of moral good or outcomes that are morally right and/or ethical. We believe in promoting the advancement of humanity and civilization as a whole. We believe in a sense of adventurement, edification, and the expansion of the human mind. 
 
 **Released under the Open Innovation License**
 
