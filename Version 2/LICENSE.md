@@ -9,10 +9,10 @@ The *Stark Drones Corporation* believes at goodwill, to build or release technol
 
 **Released under the Open Innovation License**
 
-Copyright © (YEAR) (Copyright Holder)
+*Copyright © (YEAR) (COPYRIGHT HOLDER)*
 
-This project is licensed under the *Open Innovation License*. This means any code, file, diagrams, data format, or other innovation containing this license within it can be copied, modified, redistributed, published, or even used for commercial purposes within the context of this license. 
+This project is licensed under the *Open Innovation License*. This means any code, file, diagrams, data format, or other innovation containing this license within it can be copied, modified, redistributed, published, or even used for non and/or commercial purposes within the context of this license. 
 
 ##### Any code, file, diagrams, data format, or other innovation containing this license is understood to be fully "AS IS", no claims are made in regards to safety, security, warranty, usability, or other form of merchantability and market-readiness. In no events are copyright holders, authors, or publishers are to be held liable for any claims, damage or results from usage of what have been licensed under this license.
 
-The context of this license includes: Keeping this original license text verbatim and permissive notice, as well as the copyright notice included in any redistribution of said project. Project is defined as what is using this license. For purposes of context, the copyright notice above version and year is meant to be modified for whomsoever publishes or releases "any code, file, diagrams, data format, or other innovation", so that they can include their information.
+The context of this license includes: Keeping this original license text and file verbatim, as well as the copyright notice included in any redistribution of said project. Project is defined as what is using this license. For purposes of context, the copyright notice above version and year is meant to be modified for whomsoever publishes or releases "any code, file, diagrams, data format, or other innovation", so that they can include their information.
