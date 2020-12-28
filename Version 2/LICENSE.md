@@ -9,7 +9,7 @@ The *Stark Drones Corporation* believes at goodwill, to build or release technol
 
 **Released under the Open Innovation License**
 
-Copyright © <YEAR> <COPYRIGHT HOLDER>
+Copyright © YEAR COPYRIGHT-HOLDER
 
 This project is licensed under the *Open Innovation License*. This means any code, file, diagrams, data format, or other innovation containing this license within it can be copied, modified, redistributed, published, or even used for commercial purposes within the context of this license. 
 
